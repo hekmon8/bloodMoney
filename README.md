@@ -70,10 +70,25 @@ The acclaimed sequel featuring the revolutionary Harvey Care System - an emotion
 - **Psychological Depth**: Authentic character responses to your care decisions
 - **Free Online Play**: Full experience available instantly
 
-### [Human Expenditure Program](games/human-expenditure-program.md) (Coming Soon)
+### [SoftMoney - Wholesome Clicker Visual Novel](games/softmoney.md)
+**Play at**: [https://lovemoneyonline.net/games/softmoney](https://lovemoneyonline.net/games/softmoney)
+
+A heartwarming fangame that reimagines the Blood Money experience as a wholesome clicker visual novel. Help Harvey Harvington raise $25,000 for a life-saving operation through kindness, clicking, and community support.
+
+**Key Features**:
+- **Wholesome Alternative**: All the clicking fun, zero suffering - pure heartwarming gameplay
+- **Visual Novel Storytelling**: Engaging narrative with cute pastel art and charming dialogue
+- **100% Positive Outcomes**: Every playthrough ends happily with no bad endings
+- **Family-Friendly**: Perfect for casual gamers of all ages
+- **Cross-Platform**: Available on Windows, Linux, and web browsers
+- **Free to Play**: Complete experience available instantly online
+
+### [Human Expenditure Program](games/human-expenditure-program.md)
+**Play at**: [https://lovemoneyonline.net/games/human-expenditure-program](https://lovemoneyonline.net/games/human-expenditure-program)
+
 A strategic expenditure simulator that explores resource management through a human-centric lens.
 
-**Planned Features**:
+**Key Features**:
 - Strategic resource management gameplay
 - Human-focused expenditure decisions
 - Engaging simulation mechanics
